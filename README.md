@@ -1,5 +1,16 @@
 # set2_flutter
 
+This is the Basic Flutter Project which will help you to know how API calling works on flutter.
+
+Fetching the data from the JSON link online and the good UI design for better Understanding.
+
+
+
+
+
+
+
+
 A new Flutter application.
 
 ## Getting Started
